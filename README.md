@@ -1,2 +1,2 @@
-# conholdatetotal.github.io
+# conholdate.github.io
 Github pages for conholdate https://www.conholdate.com/
